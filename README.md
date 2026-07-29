@@ -1,4 +1,4 @@
-# NihonKnow 🇯🇵
+# NihonKnow :🇯🇵:
 A tool for practicing Japanese pronunciation using the SpeechRecognition and pygame Python libraries.
 
 NihonKnow uses speech recognition to compare a learner's spoken Japanese against expected answers, allowing multiple valid Japanese representations (hiragana, katakana, and kanji).
