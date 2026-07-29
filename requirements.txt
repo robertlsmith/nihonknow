@@ -1,0 +1,3 @@
+SpeechRecognition==3.x.x
+gTTS==2.x.x
+pygame==2.x.x
